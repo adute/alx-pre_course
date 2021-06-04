@@ -1,2 +1,2 @@
 **This file is mandatory in all ALX School projects** # alx-pre_course
-Update from Github.com!
+Updated from Github.com!
